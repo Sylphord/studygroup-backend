@@ -1,0 +1,5 @@
+MYSQL_HOST = 'localhost'
+MYSQL_USER = 'root'
+MYSQL_PASSWORD = 'hellodbSQL98'
+MYSQL_DB = 'studygroup_db'
+JWT_SECRET_KEY = 'super-secret-key-change-this'
